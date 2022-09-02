@@ -8,7 +8,7 @@
 4. 编写template.docx并放置于可执行文件同级目录
 5. 执行可执行文件，并得到输出文件夹output
 
-> `target.xlsx`、`config.json`、`template.docx` 必须要有，示例请查看example。
+> `target.xlsx`、`config.json`、`template.docx` 必须要有，格式和作用直接看example就懂了。
 
 ## 其他
 docx-rs这个库有点问题，以本地引入的方式引入
