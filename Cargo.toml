@@ -1,5 +1,5 @@
 [package]
-name = "excel_to_word"
+name = "xlsx2doc"
 version = "0.1.0"
 edition = "2021"
 
