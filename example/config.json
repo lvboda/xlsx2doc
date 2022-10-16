@@ -1,0 +1,70 @@
+[
+    {
+        "field": "姓名",
+        "field_type": "text"
+    },
+    {
+        "field": "性别",
+        "field_type": "text"
+    },
+    {
+        "field": "年龄（岁）",
+        "field_type": "text"
+    },
+    {
+        "field": "联系方式",
+        "field_type": "text"
+    },
+    {
+        "field": "身份证号",
+        "field_type": "text"
+    },
+    {
+        "field": "籍贯（省+地级市+区或县）",
+        "field_type": "text"
+    },
+    {
+        "field": "家庭居住地址",
+        "field_type": "text"
+    },
+    {
+        "field": "岗位/工种",
+        "field_type": "text"
+    },
+    {
+        "field": "是否途径中高风险地区",
+        "field_type": "text"
+    },
+     {
+        "field": "从何处来苏州",
+        "field_type": "text"
+    },
+    {
+        "field": "来苏交通工具",
+        "field_type": "text"
+    },
+    {
+        "field": "来苏日期",
+        "field_type": "date"
+    },
+    {
+        "field": "行程码",
+        "field_type": "image",
+        "size": [200, 300]
+    },
+    {
+        "field": "苏康码",
+        "field_type": "image",
+        "size": [200, 300]
+    },
+    {
+        "field": "疫苗接种截图",
+        "field_type": "image",
+        "size": [200, 300]
+    },
+    {
+        "field": "核酸检测报告截图",
+        "field_type": "image",
+        "size": [200, 300]
+    }
+]

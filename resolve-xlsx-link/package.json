@@ -1,0 +1,14 @@
+{
+  "name": "handle_xlsx_link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg --out-path ./dist resolve-xlsx-link.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
